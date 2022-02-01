@@ -1,3 +1,4 @@
 # misiones
 
-* Investigar los planes de Dr. Domm
+* Investigar los planes de Dr. Domm.
+* Capturar a Red Sku.
